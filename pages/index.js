@@ -17,7 +17,7 @@ export default function Home() {
         <div className={styles.grid}>
           <div>
             <Image
-              src="/images/kentiapalm.png"
+              src="/images/Plant-1.png"
               alt="NFT"
               width={400}
               height={400}
@@ -28,7 +28,7 @@ export default function Home() {
                 checkout({
                   lineItems: [
                     {
-                      price: 'price_1KmmMDAFPWVcpdFFZWnMTT7Z',
+                      price: 'price_1L4khdF7b1TJQTWwdnfFk8Yx',
                       quantity: 1,
                     },
                   ],
@@ -39,7 +39,7 @@ export default function Home() {
           </div>
           <div>
             <Image
-              src="/images/kentiapalm.png"
+              src="/images/Plant-1.png"
               alt="NFT"
               width={400}
               height={400}
